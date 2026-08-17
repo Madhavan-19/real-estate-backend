@@ -4,6 +4,16 @@ Node.js + Express.js + PostgreSQL backend for the Real Estate Platform.
 
 ## Setup
 
+
+## 📦 Clone
+
+```bash
+git clone -b feature https://github.com/Madhavan-19/real-estate-backend.git
+
+cd real-estate-backend
+```
+
+
 ### PostgreSQL
 
 ```bash
